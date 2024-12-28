@@ -1,27 +1,29 @@
-## Juvenile art education platform(少年美术教育平台端)
-- Online art learning platform for teenagers.
-- 青少年在线美术学习平台端。
+## Juvenile art education service(少年美术教育服务端)
+- Online art learning service for teenagers.
+- 青少年在线美术学习服务端。
 
 
 ## Technology use
-- Back-end code：Laravel 6.0
-- Front-end code：Vue 2.0
+- Development language：PHP 7.4
+- System framework：Laravel 6.0
+- Database: Mysql 5.7
+- Cache: Redis
 
 
 ## Picture display
-![登录页](tmp/1.png)
-![首页](tmp/2.png)
-![课程列表页](tmp/3.png)
-![课程编辑页](tmp/4.png)
-![课件列表页](tmp/5.png)
-![商品列表页](tmp/6.png)
-![商品编辑页](tmp/7.png)
-![课程订单列表页](tmp/8.png)
-![商品订单列表页](tmp/9.png)
-![财务报表页](tmp/10.png)
-![提现列表页](tmp/11.png)
-![学员列表页](tmp/12.png)
-![老师列表页](tmp/13.png)
+![登录页](public/preview/1.png)
+![首页](public/preview/2.png)
+![课程列表页](public/preview/3.png)
+![课程编辑页](public/preview/4.png)
+![课件列表页](public/preview/5.png)
+![商品列表页](public/preview/6.png)
+![商品编辑页](public/preview/7.png)
+![课程订单列表页](public/preview/8.png)
+![商品订单列表页](public/preview/9.png)
+![财务报表页](public/preview/10.png)
+![提现列表页](public/preview/11.png)
+![学员列表页](public/preview/12.png)
+![老师列表页](public/preview/13.png)
 
 
 ### Find for remote work or collaboration
