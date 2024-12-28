@@ -29,7 +29,10 @@ trait VodTrait
   {
     try
     {
-      AlibabaCloud::accessKeyClient('LTAI4GJCazL5hJ8YnrtwGbe8', '2Dm4yRUDtsHU8iiHgFVvwvg81TvDWz')
+      $key = '';
+      $secret = '';
+
+      AlibabaCloud::accessKeyClient($key, $secret)
                   ->regionId('cn-shanghai')
                   ->connectTimeout(1)
                   ->timeout(3)
@@ -73,9 +76,4 @@ trait VodTrait
       \Log::error($e);
     }
   }
-
-
-
-
-
 }
